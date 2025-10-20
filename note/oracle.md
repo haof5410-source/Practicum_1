@@ -11,3 +11,10 @@
 
 今天上午我将datagrip和idea连接maxcompute，
 然后我下午和晚上将工单做了一下表已经建成功了数据也进去了然后就差在dataworks连接hive然后将数据导入到hive
+
+### 2025-10-20
+
+今天我把两个工单其中一个完成了一个和它的报表，然后我发现FineReport连接不上MaxCompute后来我就只能用mysql连接FineReport然后进行报表的制作
+然后我将第二个表结构创建了一下
+
+

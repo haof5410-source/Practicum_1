@@ -30,3 +30,8 @@
 
 今天上午听了老师课后我对爬虫进行了一些操作我就将京东网页版进行了是否可以查看数据![img_3.png](..%2Fping%2Fimg_3.png)然后发现了京东进行了加密
 ![img_4.png](..%2Fping%2Fimg_4.png)然后明天我打算好好看看老师的讲课视频进行个学习怎么破除加密，工单的话我已经完成
+
+### 2025-10-24
+
+今天我一开始在cdh上安装kafka但是我的虚拟机的hdfs和HBASE![img_5.png](..%2Fping%2Fimg_5.png)后我就换了一下
+在wsl上安装Doris，SQL Server，postgres然后我安装完了后就没来的及安装kafka和数据导入
